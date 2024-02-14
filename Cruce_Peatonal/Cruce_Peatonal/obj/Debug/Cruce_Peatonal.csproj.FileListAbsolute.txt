@@ -1,0 +1,7 @@
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\bin\Debug\Cruce_Peatonal.exe.config
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\bin\Debug\Cruce_Peatonal.exe
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\bin\Debug\Cruce_Peatonal.pdb
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\obj\Debug\Cruce_Peatonal.csproj.AssemblyReference.cache
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\obj\Debug\Cruce_Peatonal.csproj.CoreCompileInputs.cache
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\obj\Debug\Cruce_Peatonal.exe
+C:\Users\Keithy Vilorio\Source\Repos\Cruce_Peatonal\Cruce_Peatonal\obj\Debug\Cruce_Peatonal.pdb
